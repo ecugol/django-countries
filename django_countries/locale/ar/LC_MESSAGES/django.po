@@ -1,31 +1,30 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# 
+# Translators:
+# Bashar Al-Abdulhadi, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: django-countries\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-12-13 02:03+0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2014-08-29 12:44+1200\n"
+"PO-Revision-Date: 2014-12-13 14:53+0000\n"
+"Last-Translator: Bashar Al-Abdulhadi\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/django-countries/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
 #: data.py:29
 msgid "Brunei"
-msgstr ""
+msgstr "بروناي"
 
 #: data.py:30
 msgid "Bolivia"
-msgstr ""
+msgstr "بوليفيا"
 
 #: data.py:31
 msgid "Iran"
@@ -41,11 +40,11 @@ msgstr "كوريا الجنوبية"
 
 #: data.py:34
 msgid "Laos"
-msgstr ""
+msgstr "لاوس"
 
 #: data.py:35
 msgid "Moldovia"
-msgstr "مولدافيا"
+msgstr "مولدوفيا"
 
 #: data.py:36
 msgid "Russia"
@@ -77,7 +76,7 @@ msgstr "أفغانستان"
 
 #: data.py:47
 msgid "Åland Islands"
-msgstr "جزر أولان"
+msgstr "جزر آلاند"
 
 #: data.py:48
 msgid "Albania"
@@ -221,7 +220,7 @@ msgstr "بوروندي"
 
 #: data.py:83
 msgid "Cabo Verde"
-msgstr "الرأس الأخضر"
+msgstr "كابو فيردي"
 
 #: data.py:84
 msgid "Cambodia"
@@ -273,7 +272,7 @@ msgstr "جزر القمر"
 
 #: data.py:96
 msgid "Congo"
-msgstr "الكونغو - برازافيل"
+msgstr "الكونغو"
 
 #: data.py:97
 msgid "Congo (the Democratic Republic of the)"
@@ -313,7 +312,7 @@ msgstr "جمهورية التشيك"
 
 #: data.py:106
 msgid "Denmark"
-msgstr "الدانمرك"
+msgstr "الدنمارك"
 
 #: data.py:107
 msgid "Djibouti"
@@ -345,7 +344,7 @@ msgstr "غينيا الاستوائية"
 
 #: data.py:114
 msgid "Eritrea"
-msgstr "اريتريا"
+msgstr "إريتريا"
 
 #: data.py:115
 msgid "Estonia"
@@ -357,7 +356,7 @@ msgstr "اثيوبيا"
 
 #: data.py:117
 msgid "Falkland Islands  [Malvinas]"
-msgstr "جزر فوكلاند"
+msgstr "جزر فوكلاند [مالفيناس]"
 
 #: data.py:118
 msgid "Faroe Islands"
@@ -557,7 +556,7 @@ msgstr "قرغيزستان"
 
 #: data.py:167
 msgid "Lao People's Democratic Republic"
-msgstr "لاوس"
+msgstr "جمهورية لاو الديمقراطية الشعبية"
 
 #: data.py:168
 msgid "Latvia"
@@ -649,11 +648,11 @@ msgstr "المكسيك"
 
 #: data.py:190
 msgid "Micronesia (the Federated States of)"
-msgstr "ميكرونيزيا"
+msgstr "ميكرونيزيا (الولايات الاتحادية)"
 
 #: data.py:191
 msgid "Moldova (the Republic of)"
-msgstr "مولدافيا"
+msgstr "مولدوفا (جمهورية)"
 
 #: data.py:192
 msgid "Monaco"
@@ -809,7 +808,7 @@ msgstr "رواندا"
 
 #: data.py:230
 msgid "Saint Barthélemy"
-msgstr ""
+msgstr "سانت بارتيليمي"
 
 #: data.py:231
 msgid "Saint Helena, Ascension and Tristan da Cunha"
@@ -825,7 +824,7 @@ msgstr "سانت لوسيا"
 
 #: data.py:234
 msgid "Saint Martin (French part)"
-msgstr "سانت مارتين"
+msgstr "سانت مارتن (الجزء الفرنسي)"
 
 #: data.py:235
 msgid "Saint Pierre and Miquelon"
@@ -873,7 +872,7 @@ msgstr "سنغافورة"
 
 #: data.py:246
 msgid "Sint Maarten (Dutch part)"
-msgstr ""
+msgstr "سانت مارتن (الجزء الهولندي)"
 
 #: data.py:247
 msgid "Slovakia"
@@ -937,11 +936,11 @@ msgstr "سويسرا"
 
 #: data.py:262
 msgid "Syrian Arab Republic"
-msgstr "سوريا"
+msgstr "الجمهورية العربية السورية"
 
 #: data.py:263
 msgid "Taiwan (Province of China)"
-msgstr "تايوان"
+msgstr "تايوان (مقاطعة الصين)"
 
 #: data.py:264
 msgid "Tajikistan"
@@ -949,7 +948,7 @@ msgstr "طاجكستان"
 
 #: data.py:265
 msgid "Tanzania, United Republic of"
-msgstr "تانزانيا"
+msgstr "جمهورية تنزانيا المتحدة"
 
 #: data.py:266
 msgid "Thailand"
@@ -1033,7 +1032,7 @@ msgstr "فانواتو"
 
 #: data.py:286
 msgid "Venezuela, Bolivarian Republic of"
-msgstr "فنزويلا"
+msgstr "فنزويلا، جمهورية البوليفارية"
 
 #: data.py:287
 msgid "Viet Nam"
@@ -1041,11 +1040,11 @@ msgstr "فيتنام"
 
 #: data.py:288
 msgid "Virgin Islands (British)"
-msgstr "الجزر العذراء البريطانية"
+msgstr "جزر العذراء (البريطانية)"
 
 #: data.py:289
 msgid "Virgin Islands (U.S.)"
-msgstr "جزر العذراء الأمريكية"
+msgstr "جزر العذراء (الولايات المتحدة)"
 
 #: data.py:290
 msgid "Wallis and Futuna"
